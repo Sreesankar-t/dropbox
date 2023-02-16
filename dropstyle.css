@@ -1,0 +1,192 @@
+body{
+    margin: 0;
+}
+.main{
+    width: 100%;
+    height: 1500px;
+    background-color: rgba(8, 0, 0, 0.919);
+}
+.top-bar{
+    width: 100%;
+    height: 50px;
+    position: fixed;
+}
+.top-posion{
+    width: 50%;
+    height: 50px;
+    background-color: white;
+    float: left;
+
+}
+.top-posion1{
+    width: 50%;
+    height: 50px;
+    background-color: white;
+    float: left;
+    
+
+}
+
+
+
+.top-posion img{
+    width: 41px;
+    height: 50px;
+    float: left;
+
+
+}
+.top-posion h2{
+    color: black;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    
+
+}
+.top-posion ul li {
+    color: black;
+    float: left;
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    cursor: pointer;
+    font-size: 19px;
+    
+}
+.top-posion ul li:hover{
+    color: rgba(230, 225, 226, 0.905);
+}
+.top-posion1 input{
+    float: right;
+    color: white;
+    margin-top: 5px;
+    height: 40px;
+    width: 174px;
+    font-size: 14px;
+    font-weight: bold;
+  background-color:   rgb(61, 114, 238);
+  border-color: rgb(61, 114, 238);
+  cursor: pointer;
+  
+}
+.top-posion1 input:hover{
+    background-color: rgb(22, 144, 177);
+}
+
+
+.top-posion1 ul li{
+    
+    color: black;
+    float: right;
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    cursor: pointer;
+    font-size: 19px;
+
+}
+.top-posion1 ul li:hover{
+    color: rgba(230, 225, 226, 0.905);
+}
+.bodypart{
+    color:white;
+    width: 100%;
+    height: 1080px;
+
+}
+.bodypart img{
+    width: 628px;
+    height: 447px;
+    margin-left: 418px;
+
+    
+
+}
+.bodypart p{
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 109px;
+    font-size: 50px;
+    font-weight: 100;
+    font-family: var(--__dwgSharpGrotesk23BookStack);
+
+}
+.bodypart h5{
+
+    
+    text-align: center;
+    font-size: 16px;
+    font-weight: 100;
+    font-family: var(--__dwgSharpGrotesk23BookStack);
+}
+.bodypart input{
+    
+    
+    margin-left: 645px;
+    width: 178px;
+    height: 72px;
+    font-size: 20px;
+    background: rgb(61, 114, 238);
+    cursor: pointer;
+
+    
+
+}
+.bodypart input:hover{
+    background-color: rgb(22, 144, 177);
+}
+.bodypart h1{
+    text-align: center;
+}
+.foot-path{
+    width: 100%;
+    height: 500px;
+    
+}
+.foot1{
+    width: 20%;
+      height: 500px;
+      padding-left: 233px;
+      float: left;
+}
+.foot2{
+    width: 20%;
+      height: 500px;
+      
+      float: left;
+      
+}
+.foot3{
+    width: 20%;
+      height: 500px;
+      
+      float: left;;
+}
+.foot4{
+    width: 20%;
+      height: 500px;
+      
+      float: left;
+}
+.foot1 p{
+    color: white;
+    font-size: 16px;
+    line-height: 29px;
+}
+.foot2 p{
+    color: white;
+    font-size: 16px;
+    line-height: 29px;
+
+}
+.foot3 p{
+    color: white;
+    font-size: 16px;
+    line-height: 29px;
+}
+.foot4 p{
+    color: white;
+    font-size: 16px;
+    line-height: 29px;
+}
